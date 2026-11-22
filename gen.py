@@ -394,7 +394,7 @@ BRIEFS = [
     ("AMERICAS", "A man is convicted of starting the Palisades fire, which killed 12 and destroyed 6,800 buildings.", "BBC"),
     ("AMERICAS", "Mamdani plans to close New York\u2019s Rikers Island jail by 2032.", "BBC"),
     ("AMERICAS", "Trump ousts his cyber director after outages hit air travel and banks.", "Japan Times"),
-    ("AMERICAS", "Trump basks in summit pomp as Xi strengthens his hand.", "Japan Times"),
+    ("AMERICAS", "Trump greets Xi and Putin in China and speaks of a \u201cgreat relationship\u201d.", "BBC"),
     ("ASIA", "Japan\u2019s Princess Aiko returns from a visit to Singapore.", "Japan Times"),
     ("ASIA", "Nagano\u2019s celery farmers are running out of altitude as warming bites.", "Japan Times"),
     ("ASIA", "Mao Shimada wins the Finlandia Trophy to book a place in the Grand Prix Final.", "Japan Times"),
